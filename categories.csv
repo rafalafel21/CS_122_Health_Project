@@ -1,0 +1,45 @@
+AC,Anticaking agent,1
+AF,Antifoaming (or defoaming) agent,2
+AOX,Antioxidant,3
+BC,Boiler compound,4
+BL,Bleaching agent or flour-maturing agent,5
+B&N,Buffer and neutralizing agent,6
+CTG,Component or coating for fruits & vegetables,7
+DS,Dietary supplement,8
+EMUL,Emulsifier,9
+ENZ,Enzyme,10
+ESO,Essential oil and/or oleoresin (solvent free),11
+FEED,Substances under the Food Additives Amendment added directly to feed,12
+FLAV,Natural flavoring agent,13
+FL/ADJ,Substance used in conjunction with flavors,14
+FUM,Fumigant,15
+FUNG,Fungicide,16
+HERB,Herbicide,17
+HOR,Hormone,18
+INH,Inhibitor,19
+MISC,Miscellaneous,20
+NAT,Natural substances and extractives,21
+NNS,Non-nutritive sweetener,22
+NUTR,Nutrient,23
+NUTRS,Nutritive Sweetener,24
+PEST,Pesticide other than fumigant,25
+PRES,Chemical preservative,26
+SANI,Sanitizing agent for food processing equipment,27
+SDA,Solubilizing and dispersing agent,28
+SEQ,Sequestrant,29
+SOLV,Solvent,30
+SP,"Spices, other natural seasonings & flavorings",31
+SP/ADJ,Spray adjuvant,32
+STAB,Stabilizer,33
+SY/FL,Synthetic flavor,34
+VET,"Veterinary drug, which may leave residue in edible tissues of animals or in edible animal products",35
+BAN,Substances banned prior to the Food Additives Amendment (FAA) because of toxicity. These substances are bolded and italicized.,36
+FS,Substances permitted as optional ingredient in a standardized food,37
+GRAS,"Generally recognized as safe. Substances in this category are by definition, under Sec. 201(s) of the FD&C Act, not food additives. Most GRAS substances have no quantitative restrictions as to use, although their use must conform to good manufacturing practices. Some GRAS substances, such as sodium benzoate, do have a quantitative limit for use in foods.",38
+GRAS/FS,Substances generally recognized as safe in foods but limited in standardized foods where the standard provides for its use.,39
+ILL,Substances used or proposed for use as direct additives in foods without required clearance under the FAA. Their use is illegal. These substances are bolded and italicized.,40
+PD,Substances for which a petition has been filed but denied because of lack of proof of safety. Substances in this category are illegal and may not be used in foods.,41
+PS,Substances for which prior sanction has been granted by FDA for specific uses. There are a number of substances in this category not listed herein because they have not been published in the FEDERAL REGISTER.,42
+REG,Food additives for which a petition has been filed and a regulation issued.,43
+REG/FS,Food additives regulated under the FAA and included in a specific food standard.,44
+COL,color additives,45
