@@ -9,6 +9,10 @@ OVERVIEW: Data on food additives was scraped from the FDA website, and
         information about these products and their health scores, helping 
         them make more informed decisions about which products may be 
         healthier than others, based on the additives they contain. 
+        
+Available Scripts:
+        Run "pip install Bullet" if you do not have Bullet already installed
+        Run "python3 cli.py" to acess the project's command line interface
 
 -------------------------------------------------------------------------------
 
